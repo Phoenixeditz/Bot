@@ -1,0 +1,12 @@
+telebot==0.0.4
+pytube==12.1.0
+instaloader==4.9.5
+yt-dlp==2021.12.1
+requests==2.26.0
+pydub==0.25.1
+google-api-python-client==2.31.0
+fpdf==1.7.2
+pdf2image==1.16.0
+opencv-python==4.5.5.64  # For object detection
+numpy==1.21.2
+Pillow==9.2.0  # For handling images in PDF/Image conversions
